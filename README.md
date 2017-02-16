@@ -35,4 +35,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](https://github.com/DIYgod) [ZMOM1031](https://github.com/ZMOM1031)
+MIT © [DIYgod](https://github.com/DIYgod), [ZMOM1031](https://github.com/ZMOM1031)
