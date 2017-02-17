@@ -22,7 +22,7 @@
 3. 在 `index.html` `digital.html` `print.html` 文件中填写你的信息
 4. 打开 `digital.html` 页面生成彩色数字版本 PDF（以 Chrome 浏览器为例）：打开 `文件 -> 打印`，设置布局为纵向，纸张尺寸为 `A3`，边距无，背景图片选项打钩，保存。
 5. 打开 `print.html` 页面生成黑白打印版本 PDF（同上）（二维码生成推荐使用 [草料二维码生成器](http://cli.im/)）
-5. 部署上线（可压缩 PDF 后将其放在根目录里供在线下载，推荐在线压缩工具 [smallpdf](http://smallpdf.com/cn/compress-pdf)）
+5. 部署上线（可压缩 PDF 后将其放在根目录里供在线下载，推荐在线压缩工具 [Smallpdf](http://smallpdf.com/cn/compress-pdf)）
 6. Enjoy it!
 
 ## 开发 (Development)
